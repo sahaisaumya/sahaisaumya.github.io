@@ -1,5 +1,6 @@
 title: Saumya Sahai
-url: "https://sahaisaumya.github.io"
+redirect_to: "https://sahaisaumya.github.io/"
+url: "https://sahaisaumya.github.io/"
 baseurl: ""
 
 markdown: kramdown
