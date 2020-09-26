@@ -7,10 +7,10 @@ layout: default
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
 I am a graduate student with the Department of Computer Science and Engineering at The Ohio State University. My research interests are in social computing and natural language processing. I'm interested in understanding how people interact, specially in the setting of online forums.
+
 Previously, I was a graduate student at Cornell University and completed my undergraduate studies at Birla Intitute of Technology and Science, Pilani.
 
-
-
+---
 
 ## Publications
 
