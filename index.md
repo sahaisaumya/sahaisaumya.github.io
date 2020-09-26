@@ -19,9 +19,7 @@ Previously, I was a graduate student at Cornell University and completed my unde
 * Whitehead, Samuel, Troy Shirangi, Theodore Lindsay, **Saumya Sahai**, Erica Ehrhardt, Tsevi Beatus, Nilay Yapici, Michael Dickinson, David Stern, and Itai Cohen. ["Uncovering the Neural Basis of Flight Control in Fruit Flies."](https://ui.adsabs.harvard.edu/abs/2018APS..MARS06008W/abstract)  APS 2018 (2018): S06-008.
 
 * **Sahai, Saumya**, Samuel Whitehead, Esther Tsyngauz, Itai Cohen,  Nilay Yapici. "Quantitative analysis of *Drosophila* foraging and ingestion behaviors". (In preparation)
-<!-- ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
 
 
