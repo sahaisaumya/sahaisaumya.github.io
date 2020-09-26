@@ -1,12 +1,14 @@
 title: Saumya Sahai
 url: "https://sahaisaumya.github.io"
-baseurl: "/about"
+baseurl: ""
 
 markdown: kramdown
 
 sass:
     style: compressed
     sass_dir: _sass
+    
+tracking_id: UA-179107942-1
 
 nav:
  - name: "About"
