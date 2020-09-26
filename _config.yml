@@ -1,0 +1,21 @@
+title: Saumya Sahai
+url: "https://sahaisaumya.github.io"
+baseurl: "/about"
+
+markdown: kramdown
+
+
+tracking_id: #
+
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/about/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
