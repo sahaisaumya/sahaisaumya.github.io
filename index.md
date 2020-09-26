@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<!-- <img class="profile-picture" src="sherlock.jpg"> -->
+<img class="profile-picture" src="photo.jpg">
 
 I am a graduate student with the Department of Computer Science and Engineering at The Ohio State University. My research interests are in social computing and natural language processing. I'm interested in understanding how people interact, specially in the setting of online forums.
 
