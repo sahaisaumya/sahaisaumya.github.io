@@ -30,6 +30,8 @@ Previously, I was a graduate student at Cornell University and completed my unde
 
 * **Sahai, Saumya**, Samuel Whitehead, Esther Tsyngauz, Itai Cohen,  Nilay Yapici. ["Quantitative analysis of *Drosophila* foraging and ingestion behaviors"](). (In preparation)
 
+### Contact
 
-
-
+* Email: sahai.17[AT]osu[DOT]edu
+* [LinkedIn](https://www.linkedin.com/in/saumyasahai/)
+* [Github](https://github.com/sahaisaumya/)
