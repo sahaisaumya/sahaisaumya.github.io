@@ -17,7 +17,7 @@ Previously, I was a graduate student at Cornell University and completed my unde
 * **Jul 2020**: Our work on DrugDBEmbed is now available on [arxiv](https://arxiv.org/pdf/2007.02384.pdf)
 * **May 2020**: Starting my summer internship at [CEDAR team, Inria Saclay](https://team.inria.fr/cedar/)
 * **Apr 2020**: Awarded the [Global Gateway Grant](https://cgs.osu.edu/funding-opportunities/global-gateway-grant/) for research abroad
-* **Aug 2020**: Awarded Graduate School's [University Fellowship](https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/university-fellowship)
+* **Aug 2019**: Awarded Graduate School's [University Fellowship](https://gradsch.osu.edu/pursuing-your-degree/graduate-fellows/university-fellowship)
 
 
 ---
