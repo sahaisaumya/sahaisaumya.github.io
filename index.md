@@ -24,6 +24,8 @@ Previously, I was a graduate student at Cornell University and completed my unde
 
 ## Publications
 
+* **Sahai, Saumya**, Oana Balalau and Roxana Horincar. ["Detecting fallacious arguments in conversations."]() (Submitted to ACL 2021, title changed due to ongoing blind review, manuscript available on request)
+
 * Bandyopadhyay, Bortik, Pranav Maneriker, Vedang Patel, **Saumya Sahai**, Ping Zhang, and Srinivasan Parthasarathy. ["DrugDBEmbed: Semantic Queries on Relational Database using Supervised Column Encodings."](https://arxiv.org/pdf/2007.02384.pdf) arXiv preprint arXiv:2007.02384 (2020).
 
 * Whitehead, Samuel, Troy Shirangi, Theodore Lindsay, **Saumya Sahai**, Erica Ehrhardt, Tsevi Beatus, Nilay Yapici, Michael Dickinson, David Stern, and Itai Cohen. ["Uncovering the Neural Basis of Flight Control in Fruit Flies."](https://ui.adsabs.harvard.edu/abs/2018APS..MARS06008W/abstract)  March Meeting of American Physical Society, Los Angeles, CA (2018): S06-008.
