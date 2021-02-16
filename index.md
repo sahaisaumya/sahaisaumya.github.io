@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I am a doctoral student in the Department of Computer Science and Engineering at the Ohio State University. My research interests are in social computing and natural language processing. I'm interested in understanding interactions among people, specially in the setting of online forums. 
+I am a doctoral student in the Department of Computer Science and Engineering at the [Ohio State University](https://www.osu.edu/). My research interests are in social computing and natural language processing. I'm interested in understanding interactions among people, specially in the setting of online forums. 
 
-Previously, I was a graduate student at Cornell University and completed my undergraduate studies at Birla Intitute of Technology and Science, Pilani.
+I completed my masters at [Cornell University](https://www.cornell.edu/) and, before that was an undergraduate at [Birla Intitute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
 ---
 
