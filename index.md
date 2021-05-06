@@ -24,7 +24,7 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 
 ## Publications
 
-* **Sahai, Saumya**, Oana Balalau and Roxana Horincar. ["Detecting fallacious arguments in conversations."]() (Submitted to ACL 2021, title changed due to ongoing blind review, manuscript available on request)
+* **Sahai, Saumya**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."]() Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
 
 * Bandyopadhyay, Bortik, Pranav Maneriker, Vedang Patel, **Saumya Sahai**, Ping Zhang, and Srinivasan Parthasarathy. ["DrugDBEmbed: Semantic Queries on Relational Database using Supervised Column Encodings."](https://arxiv.org/pdf/2007.02384.pdf) arXiv preprint arXiv:2007.02384 (2020).
 
