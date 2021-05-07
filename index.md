@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="photo2.jpg">
+<img class="profile-picture" src="photo1.jpg">
 
 I am a doctoral student in the Department of Computer Science and Engineering at the [Ohio State University](https://www.osu.edu/). My research interests are in social computing and natural language processing. I'm interested in understanding interactions among people, specially in the setting of online forums. 
 
