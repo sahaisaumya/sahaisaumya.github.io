@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo2.jpeg">
 
-I am a graduate student in the Department of Computer Science and Engineering at the [Ohio State University](https://www.osu.edu/). My research interests are in social computing and natural language processing. I'm interested in understanding interactions among people, specially in the setting of online forums. 
+I am a graduate student in the Department of Computer Science and Engineering at the [Ohio State University](https://www.osu.edu/). I'm broadly interested in applied machine learning, particularly in building and explaining deep neural models with applications in natural language processing/understanding, computational linguistics and social computing.
 
 I completed my masters at [Cornell University](https://www.cornell.edu/) and, before that was an undergraduate at [Birla Intitute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
