@@ -14,7 +14,7 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 
 ## News
 
-* **May 2021**: Joining [Spotify](https://www.spotify.com/) as a machine learning intern
+* **May 2021**: Working this summer at [Spotify](https://www.spotify.com/) as a machine learning intern
 * **May 2021**: Our paper "Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions" is accepted at ACL 2021
 * **Apr 2021**: Our work on nowcasting epidemic incidence is now available on [arxiv](https://arxiv.org/pdf/2104.02174.pdf)
 * **Jul 2020**: Our work on DrugDBEmbed is now available on [arxiv](https://arxiv.org/pdf/2007.02384.pdf)
