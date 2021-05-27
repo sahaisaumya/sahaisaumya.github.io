@@ -27,14 +27,16 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 
 ## Publications
 
-* **Sahai, Saumya**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."]() Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
+* **Saumya Sahai**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."]() Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
 
-* **Sahai, Saumya**, Saket Gurukar, Wasiur R. KhudaBukhsh, Srinivasan Parthasarathy and Grzegorz A. Rempala. ["A Machine Learning Model for Nowcasting Epidemic
+* **Saumya Sahai&ast;**, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021) (\* denotes equal contribution)
+
+* **Saumya Sahai**, Saket Gurukar, Wasiur R. KhudaBukhsh, Srinivasan Parthasarathy and Grzegorz A. Rempala. ["A Machine Learning Model for Nowcasting Epidemic
 Incidence."](https://arxiv.org/pdf/2104.02174.pdf) arXiv preprint arXiv:2104.02174 (2021)
 
-* Bandyopadhyay, Bortik, Pranav Maneriker, Vedang Patel, **Saumya Sahai**, Ping Zhang, and Srinivasan Parthasarathy. ["DrugDBEmbed: Semantic Queries on Relational Database using Supervised Column Encodings."](https://arxiv.org/pdf/2007.02384.pdf) arXiv preprint arXiv:2007.02384 (2020).
+* Bortik Bandyopadhyay, Pranav Maneriker, Vedang Patel, **Saumya Sahai**, Ping Zhang, and Srinivasan Parthasarathy. ["DrugDBEmbed: Semantic Queries on Relational Database using Supervised Column Encodings."](https://arxiv.org/pdf/2007.02384.pdf) arXiv preprint arXiv:2007.02384 (2020).
 
-* Whitehead, Samuel, Troy Shirangi, Theodore Lindsay, **Saumya Sahai**, Erica Ehrhardt, Tsevi Beatus, Nilay Yapici, Michael Dickinson, David Stern, and Itai Cohen. ["Uncovering the Neural Basis of Flight Control in Fruit Flies."](https://ui.adsabs.harvard.edu/abs/2018APS..MARS06008W/abstract)  March Meeting of American Physical Society, Los Angeles, CA (2018): S06-008.
+* Samuel Whitehead, Troy Shirangi, Theodore Lindsay, **Saumya Sahai**, Erica Ehrhardt, Tsevi Beatus, Nilay Yapici, Michael Dickinson, David Stern, and Itai Cohen. ["Uncovering the Neural Basis of Flight Control in Fruit Flies."](https://ui.adsabs.harvard.edu/abs/2018APS..MARS06008W/abstract)  March Meeting 2018, American Physical Society.
 
 <!-- * **Sahai, Saumya**, Samuel Whitehead, Esther Tsyngauz, Itai Cohen,  Nilay Yapici. ["Quantitative analysis of *Drosophila* foraging and ingestion behaviors"](). (In preparation) -->
 
