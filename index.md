@@ -29,7 +29,7 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 
 * **Saumya Sahai**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."]() Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
 
-* **Saumya Sahai&ast;**, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021) (\* denotes equal contribution)
+* **Saumya Sahai\***, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021) (\* denotes equal contribution)
 
 * **Saumya Sahai**, Saket Gurukar, Wasiur R. KhudaBukhsh, Srinivasan Parthasarathy and Grzegorz A. Rempala. ["A Machine Learning Model for Nowcasting Epidemic
 Incidence."](https://arxiv.org/pdf/2104.02174.pdf) arXiv preprint arXiv:2104.02174 (2021)
