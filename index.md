@@ -29,9 +29,9 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 
 * **Saumya Y Sahai**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."](https://drive.google.com/file/d/1WAIlFrsYnLUUtKsoI-PXCipxVzpljwOf/view?usp=sharing) Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
 
-* Dravyansh Sharma, **Saumya Y Sahai**, Neha Chaudhari, Antoine Bruguier. ["Improved pronunciation prediction accuracy using morphology."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021) (\* denotes equal contribution)
+* Dravyansh Sharma, **Saumya Y Sahai**, Neha Chaudhari, Antoine Bruguier. ["Improved pronunciation prediction accuracy using morphology."](https://drive.google.com/file/d/1_DcbGBmwcE4OiOKi6wHd6WZyM7ofXzzM/view?usp=sharing) The ACL Special Interest Group on Computational Morphology and Phonology (ACL 2021)
 
-* **Saumya Y Sahai\***, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://drive.google.com/file/d/1_DcbGBmwcE4OiOKi6wHd6WZyM7ofXzzM/view?usp=sharing) The ACL Special Interest Group on Computational Morphology and Phonology (ACL 2021)
+* **Saumya Y Sahai\***, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021)(\* denotes equal contribution)
 
 * **Saumya Y Sahai**, Saket Gurukar, Wasiur R. KhudaBukhsh, Srinivasan Parthasarathy and Grzegorz A. Rempala. ["A Machine Learning Model for Nowcasting Epidemic
 Incidence."](https://arxiv.org/pdf/2104.02174.pdf) arXiv preprint arXiv:2104.02174 (2021)
