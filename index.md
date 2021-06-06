@@ -27,7 +27,7 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 
 ## Publications
 
-* **Saumya Sahai**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."]() Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
+* **Saumya Sahai**, Oana Balalau and Roxana Horincar. ["Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions."](https://drive.google.com/file/d/1WAIlFrsYnLUUtKsoI-PXCipxVzpljwOf/view?usp=sharing) Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)
 
 * **Saumya Sahai\***, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021) (\* denotes equal contribution)
 
