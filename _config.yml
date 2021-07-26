@@ -1,22 +1,22 @@
-title: Saumya Y Sahai
-authors: Saumya Y Sahai
-url: "https://sahaisaumya.github.io"
-baseurl: ""
+# title: Saumya Y Sahai
+# authors: Saumya Y Sahai
+# url: "https://sahaisaumya.github.io"
+# baseurl: ""
 
-markdown: kramdown
+# markdown: kramdown
 
-sass:
-    style: compressed
-    sass_dir: _sass
+# sass:
+#     style: compressed
+#     sass_dir: _sass
     
-tracking_id: UA-179107942-1
+# tracking_id: UA-179107942-1
 
-nav:
- - name: "About"
-   link: "index"
- - name: "CV"
-   link: "cv"
-#  - name: "Code"
-#    link: "https://github.com/sahaisaumya"
- - name: "Contact"
-   link: "contact"
+# nav:
+#  - name: "About"
+#    link: "index"
+#  - name: "CV"
+#    link: "cv"
+# #  - name: "Code"
+# #    link: "https://github.com/sahaisaumya"
+#  - name: "Contact"
+#    link: "contact"
