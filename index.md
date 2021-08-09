@@ -34,7 +34,7 @@ I completed my masters at [Cornell University](https://www.cornell.edu/) and, be
 * **Saumya Y Sahai\***, Dravyansh Sharma*. ["Predicting and Explaining French Grammatical Gender."](https://www.aclweb.org/anthology/2021.sigtyp-1.9.pdf) The ACL Special Interest Group on Typology (NAACL 2021) <sub><sup> (\* denotes equal contribution) </sup></sub>
 
 * **Saumya Y Sahai**, Saket Gurukar, Wasiur R. KhudaBukhsh, Srinivasan Parthasarathy and Grzegorz A. Rempala. ["A Machine Learning Model for Nowcasting Epidemic
-Incidence."](https://arxiv.org/pdf/2104.02174.pdf) arXiv preprint arXiv:2104.02174 (2021)
+Incidence."](https://arxiv.org/pdf/2104.02174.pdf) Journal of Mathematical Biosciences (2021)<!--arXiv preprint arXiv:2104.02174 (2021)-->
 
 * Bortik Bandyopadhyay, Pranav Maneriker, Vedang Patel, **Saumya Y Sahai**, Ping Zhang, and Srinivasan Parthasarathy. ["DrugDBEmbed: Semantic Queries on Relational Database using Supervised Column Encodings."](https://arxiv.org/pdf/2007.02384.pdf) arXiv preprint arXiv:2007.02384 (2020).
 
