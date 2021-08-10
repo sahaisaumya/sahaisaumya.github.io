@@ -14,8 +14,8 @@ tracking_id: UA-179107942-1
 nav:
  - name: "About"
    link: "index"
-#  - name: "CV"
-#    link: "cv"
+ - name: "CV"
+   link: "cv"
 #  - name: "Code"
 #    link: "https://github.com/sahaisaumya"
  - name: "Contact"
