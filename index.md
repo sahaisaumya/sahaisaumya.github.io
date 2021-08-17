@@ -44,6 +44,6 @@ Incidence."](https://arxiv.org/pdf/2104.02174.pdf) Journal of Mathematical Biosc
 
 ### Contact
 
-* Email: sahai.17[AT]osu[DOT]edu
+* Email: [lastname].[firstname]@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/saumyasahai/)
 * [Github](https://github.com/sahaisaumya/)
