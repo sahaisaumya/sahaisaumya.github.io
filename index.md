@@ -6,14 +6,15 @@ layout: default
 
 <img class="profile-picture" src="photo2.jpeg">
 
-I am a graduate student in the Department of Computer Science and Engineering at the [Ohio State University](https://www.osu.edu/). I'm broadly interested in applied machine learning, particularly in building and explaining deep neural models with applications in natural language processing/understanding, computational linguistics and social computing.
+I am an applied scientist at Amazon Alexa working on automatic speech recognition and spoken language understanding. I'm broadly interested in applied machine learning, particularly in building and explaining deep neural models with applications in natural language processing/understanding, computational linguistics and social computing.
 
-I completed my masters at [Cornell University](https://www.cornell.edu/) and, before that was an undergraduate at [Birla Intitute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
+I completed my masters at [Ohio State University](https://www.osu.edu/) & [Cornell University](https://www.cornell.edu/). Before that, I was an undergraduate at [Birla Intitute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
 ---
 
 ## News
 
+* **Feb 2022**: Joining [Amazon](https://www.amazon.science/) as an applied scientist
 * **May 2021**: Joining [Spotify](https://www.spotify.com/) this summer as a machine learning intern
 * **May 2021**: Our paper "Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions" is accepted at ACL 2021
 * **Apr 2021**: Our work on nowcasting epidemic incidence is now available on [arxiv](https://arxiv.org/pdf/2104.02174.pdf)
