@@ -27,7 +27,7 @@ I completed my masters at [Ohio State University](https://www.osu.edu/) & [Corne
 
 ---
 
-## Select Publications \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=nbwWuw4AAAAJ)\]
+## Select Publications \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=nbwWuw4AAAAJ&view_op=list_works&sortby=pubdate)\]
 
 * **Saumya Y Sahai**, Jing Liu, Thejaswi Muniyappa, Kanthashree M. Sathyendra et al. ["Dual-attention Neural Transducers for Efficient Wake Word Spotting in Speech Recognition."](https://assets.amazon.science/1f/d3/b439329b4bef83d339be9c2202c9/dual-attention-neural-transducers-for-efficient-wake-word-spotting-in-speech-recognition.pdf) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)}
 
